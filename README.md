@@ -1,1 +1,1 @@
-# Corona_details
+# Corona_Tracking details. Please go through the code
